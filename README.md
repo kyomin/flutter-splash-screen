@@ -1,5 +1,5 @@
 # 개요
-** 스플래시 스크린(Splash Screen) **이란 애플리케이션 실행 시 페이지의 컨텐츠가 로딩되기까지 일시적으로 보여주는 화면을 말한다.      
+`스플래시 스크린(Splash Screen)`이란 애플리케이션 실행 시 페이지의 컨텐츠가 로딩되기까지 일시적으로 보여주는 화면을 말한다.      
 모바일 애플리케이션의 경우 로고가 중앙에 박혀있는 화면을 일반적으로 가리킨다.
 
 # 목표
@@ -18,4 +18,4 @@ APP의 UI를 만들고 구성하는 모든 기본 단위 요소(Image, Text 등)
 결론적으로 Flutter에서는 모든 것이 Widget이다.
 
 # 프로젝트 결과 화면
-![splash-screen](https://github.com/kyomin/flutter-splash-screen/assets/46395776/40b2cfe1-ec86-4526-8ca3-75d5e5c07761)
+![splash-screen](https://github.com/kyomin/flutter-splash-screen/assets/46395776/c31b9d92-f4f2-4ec2-ac4e-0fb3db4fa395)
